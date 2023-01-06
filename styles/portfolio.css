@@ -170,3 +170,29 @@ main {
   text-align: center;
   margin-top: 50px;
 }
+/* Contact */
+footer {
+  background-color: #fff8f3;
+}
+.contact {
+  display: flex;
+  max-width: 1140px;
+  padding: 130px 230px;
+  gap: 120px;
+
+  text-align: left;
+}
+.contact p {
+  color: #474747;
+  margin-bottom: 30px;
+}
+
+.contact input[type="text"],
+input[type="email"],
+textarea {
+  margin-bottom: 24px;
+  width: 100%;
+  border: none;
+  padding: 18px 30px;
+  border-radius: 5px;
+}
