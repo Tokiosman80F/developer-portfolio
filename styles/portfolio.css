@@ -29,7 +29,7 @@ section {
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 50px 230px;
+  padding: 55px 230px;
 }
 .nav-title {
   font-weight: 800;
